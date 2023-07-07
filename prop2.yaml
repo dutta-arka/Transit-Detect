@@ -1,0 +1,28 @@
+TARGETS:
+# Random TIC
+  TIC 27965513: #TIC number
+     SECTORS: [2, 29]
+     #INITIAL_MASK: [[start_date, end_date]]
+     #SIMPLE_OSCILLATIONS_REDUCTION: True # Pre-whitening (FELIX-like cleaning)
+     EXPTIME: 120
+     AUTO_DETREND_ENABLED: True
+     AUTO_DETREND_METHOD: 'biweight' # biweight | cosine (base = cosine)
+     #AUTO_DETREND_RATIO: 0.1 # window_size for autodetrend, in unit of fraction of the main period spotted (base = 0.25)
+     #AUTO_DETREND_PERIOD: 0.2 # Force the autodetrend period in days (useful for eclipsing, among others)
+     INITIAL_SMOOTH_ENABLED: True
+     INITIAL_HIGH_RMS_MASK: False
+     INITIAL_HIGH_RMS_THRESHOLD: 1.5
+     #INITIAL_MASK: [[start_date, end_date]]
+     #INITIAL_HIGH_RMS_BIN_HOURS: 3
+     DETREND_METHOD: 'biweight'
+     DETRENDS_NUMBER: 3
+     DETREND_CORES: 7
+     MAX_RUNS: 8
+     SNR_MIN: 6
+     SDE_MIN: 5
+     #FAP_MAX: 0.1
+     CPU_CORES: 4
+     PERIOD_MIN: 0.2
+     PERIOD_MAX: 33
+     #QUORUM_STRENGTH: 1.2
+     OVERSAMPLING: 3
