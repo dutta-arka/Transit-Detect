@@ -12,7 +12,7 @@ Using these .txt files, run finaldataset.ipynb.
 We use [SHERLOCKPIPE](https://github.com/franpoz/SHERLOCK.git) for this step. Please see the [documentation](https://sherlockpipe.readthedocs.io/en/latest/index.html#) for a detailed overview. The steps are the following.
 + For each run, findsectors.py to find the sectors for which the targets have been observed.
 + Update the prop1.yaml or prop2.yaml depending upon your preference.
-+ run the command """ python3 -m sherlockpipe --properties c13.yaml """ on terminal after installing SHERLOCKPIPE or use """ !python3 -m sherlockpipe --properties c13.yaml """ in ipython or jupyter notebook.
++ run the command ``` python3 -m sherlockpipe --properties c13.yaml ``` on terminal after installing SHERLOCKPIPE or use ``` !python3 -m sherlockpipe --properties c13.yaml ``` in ipython or jupyter notebook.
 + Zip the final file and download that.
 
 ## Tabulating Data
