@@ -6,3 +6,27 @@ Required targets can be found in either NASA Exoplanet Archive or The Extrasolar
 
 ## Processing Data
 Once You have downloaded the data, Select the host star names that have an orbital period of less than 33 days (default of SHERLOCKPIPE). Make a .txt file (Or directly read from a .csv file in the terminal. Three such .txt files are added here.
+Using these .txt files, run finaldataset.py.
+
+## Analysing the data
+We use [SHERLOCKPIPE](https://github.com/franpoz/SHERLOCK.git) for this step. Please see the [documentation](https://sherlockpipe.readthedocs.io/en/latest/index.html#) for a detailed overview. The steps are the following.
++ For each run, findsectors.py to find the sectors for which the targets have been observed.
+
+## Tabulating Data
+A tabulation format of all the data is given in data.csv.
+
+## Vetting
+
+### Manually
+
+### Using WATSON
+
+
+## Final Output
+
+
+## Future Works
+
+
+## References
+
