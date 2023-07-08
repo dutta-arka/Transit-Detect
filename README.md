@@ -22,7 +22,7 @@ A tabulation format of all the data is given in data.csv.
 
 ### Manually
 
-### Using WATSON
+### Using TRICERATOPS
 
 
 ## Final Output
