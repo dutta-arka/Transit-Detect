@@ -1,0 +1,2 @@
+Each .ipynb file is for vetting a diffrent planet (maybe for the same star). Identifier is based on the SNR value from high to low for small to large identifier. 
+All of them of this case have diffrent orbital period.
