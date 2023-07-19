@@ -16,7 +16,7 @@ We use [SHERLOCKPIPE](https://github.com/franpoz/SHERLOCK.git) for this step. Pl
 + Zip the final file and download that.
 
 ## Tabulating Data
-A tabulation format of all the data is given in data.csv. [Final Data Sheet 1; Of confirmed RV planets](https://docs.google.com/spreadsheets/d/1i95u_nRxyQGhKAlw-9guYQfdSYQ4seXdPk9JbY0Tunw/edit?usp=sharing)
+A tabulation format of all the data is given in data.csv. [Final Data Sheet](https://docs.google.com/spreadsheets/d/1i95u_nRxyQGhKAlw-9guYQfdSYQ4seXdPk9JbY0Tunw/edit?usp=sharing)
 
 ## Vetting
 
