@@ -26,7 +26,7 @@ The first step toward vetting the objects of interest was done manually. All the
 All the manually vetted candidates are then processed using a statistical vetting package called "TRICERATOPS". The notebooks for all such candidates are added to the vetting and candidate folders for confirmed and candidate RV planets after manual vetting.
 
 ## Final Output
-All the possible/likely planets are listed here [Release Data](https://docs.google.com/spreadsheets/d/1sjhrfy6IH1ciZ82lqMhPsQIwn5zKqHrpNN8fCc6v7X8/edit?usp=sharing)
+All the possible/likely planets are listed here [Report Data](https://docs.google.com/spreadsheets/d/1eRbgPTvS1gr9Y8xxylBoHJVLFCWtdh_d3sfJu33GQPU/edit?usp=sharing)
 
 ## Future Works
 A possible work could be using machine learning integrated with JWST data for many long-period planets.
